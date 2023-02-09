@@ -90,7 +90,7 @@ sudo docker-compose start
 
 3. Deploy on Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Nandeshwarom555/clonebot-master&branch=main&name=MRKYT-FWRDIT-V2)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Nandeshwarom555/clonebot-master&branch=main&name=clonebot-private)
 
 
 
