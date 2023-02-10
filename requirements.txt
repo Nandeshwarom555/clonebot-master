@@ -2,7 +2,7 @@ Flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.1
 pytz
-pyrogram
+pyrogram==1.4.16
 tgcrypto
 sqlalchemy~=1.3.23
 psycopg2-binary
